@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elite Product Engineering"
+  short_description: "Build, launch, grow, and scale apps"
+  default_prompt: "Use $elite-product-engineering to audit this repo and produce a high-impact execution plan."
